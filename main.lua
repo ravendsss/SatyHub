@@ -7,7 +7,7 @@ elseif placeId == 77747658251236 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/SatyHub/refs/heads/main/sailorpiecedupe.lua", true))()
 elseif placeId == 109983668079237 then
     -- Steal A Brainrot
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/SailorPiece/refs/heads/main/obfuscated_script-1776334436980.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/SatyHub/refs/heads/main/sab.lua", true))()
 else
-    game.Players.LocalPlayer:Kick("This game is not supported! Please use at MM2/Sailor Piece!")
+    game.Players.LocalPlayer:Kick("This game is not supported! Please use at MM2/Sailor Piece/Steal A Brainrot!!")
 end
